@@ -1,1 +1,2 @@
 # Customer-Census-Income
+Based on certain parameters from a historical data we can predict the annual income of a customer. By prediction I mean to classify the customers under under two classes basis their income level. This Project aims to help companies to segment their customers based on there annual income so that they can target a perticular group of customers for specific products and can send them customised product recommendations. 
